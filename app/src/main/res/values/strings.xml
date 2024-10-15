@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="lule_kutang">Lule Kutang</string>
+    <string name="femme">Femme Ngumba</string>
+    <string name="chef">Chef Mbvoumbo</string>
+    <string name="thomas">Thomas Ndobo</string>
+    <string name="lolodorf">Lolodorf</string>
+    <string name="joyce">Joyce Aboui</string>
+    <string name="georges">Georges Mbakop</string>
+    <string name="grand_zambi">Grand-Zambi</string>
+    <string name="ngovayang">Ngovayang</string>
+    <string name="sap_artspace">African Art Space</string>
+    <string name="pr_c_dent">Précédent</string>
+    <string name="suivant">Suivant</string>
+</resources>
